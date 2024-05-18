@@ -2,3 +2,4 @@ Red is the first color of the rainbow.
 orange is the second color of the rainbow.
 Yellow.
 Green is good for rainbow.
+blue is goode. // think it is a typo
